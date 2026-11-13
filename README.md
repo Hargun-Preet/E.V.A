@@ -3,10 +3,10 @@
 > A 3D-printed, six-servo robotic arm that moves **one motor at a time**, with a web dashboard, a live 3D digital twin,
 > teach-and-replay, automatic pick-and-place and a small library of gestures.
 
-![tests](https://github.com/YOUR-USERNAME/eva-robotic-arm/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Hargun-Preet/E.V.A./actions/workflows/tests.yml/badge.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<!-- TODO: add a demo GIF or a YouTube link here, e.g.  [![Watch the demo](media/demo-thumbnail.jpg)](https://youtu.be/...) -->
+[![Watch the demo](media/demo-thumbnail.jpg)](https://youtu.be/dM6kYJHm9dY)
 
 E.V.A. is a hobby robot arm built around an **Arduino Uno** and a **PCA9685** servo driver. It started as "make every servo move"
 and grew into a small robotics stack: a calibrated firmware, an inverse-kinematics engine, a browser dashboard with a 3D twin
