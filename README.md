@@ -6,7 +6,12 @@
 ![tests](https://github.com/Hargun-Preet/E.V.A./actions/workflows/tests.yml/badge.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Watch the demo](media/demo-thumbnail.jpg)](https://youtu.be/dM6kYJHm9dY)
+### Watch the Demo
+<p align="center">
+  <a href="https://youtu.be/dM6kYJHm9dY">
+    <img src="media/demo-thumbnail.jpg" alt="Watch the E.V.A. demo" width="700">
+  </a>
+</p>
 
 E.V.A. is a hobby robot arm built around an **Arduino Uno** and a **PCA9685** servo driver. It started as "make every servo move"
 and grew into a small robotics stack: a calibrated firmware, an inverse-kinematics engine, a browser dashboard with a 3D twin
