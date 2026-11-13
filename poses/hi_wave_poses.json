@@ -1,0 +1,10 @@
+[
+ {"name": "Start (home)",  "angles": [0, 90, 0, 0, 0, 0],      "pause": 1.0},
+ {"name": "Raise hand",    "angles": [0, 80, 35, 0, 0, -30],   "pause": 0.8},
+ {"name": "Wave 1",        "angles": [0, 80, 35, 30, 0, -30],  "pause": 0.2},
+ {"name": "Wave 2",        "angles": [0, 80, 35, -30, 0, -30], "pause": 0.2},
+ {"name": "Wave 3",        "angles": [0, 80, 35, 30, 0, -30],  "pause": 0.2},
+ {"name": "Wave 4",        "angles": [0, 80, 35, -30, 0, -30], "pause": 0.2},
+ {"name": "Hand steady",   "angles": [0, 80, 35, 0, 0, -30],   "pause": 0.8},
+ {"name": "Lower hand",    "angles": [0, 90, 0, 0, 0, 0],      "pause": 1.0}
+]

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local pose file written by the dashboard (shared examples live in poses/)
+/poses.json
+/software/poses.json
+
+# Arduino IDE / build output
+build/
+*.hex
+*.elf
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large media: host videos on YouTube or in a GitHub Release instead
+*.mp4
+*.mov
+*.mkv

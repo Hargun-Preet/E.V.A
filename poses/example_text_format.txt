@@ -1,0 +1,7 @@
+# E.V.A. example poses in the text format (see docs/04-software-guide.md)
+# name, base, shoulder, elbow, roll, pitch, gripper, pause
+Raise hand, 0, 80, 35, 0, 0, -30, 0.8
+Look left, 20, 80, 35, 0, 0, -30, 0.4
+Look right, -20, 80, 35, 0, 0, -30, 0.4
+Centre, 0, 80, 35, 0, 0, -30, 0.5
+Lower hand, 0, 90, 0, 0, 0, 0, 1.0
